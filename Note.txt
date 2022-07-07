@@ -1,0 +1,2 @@
+https://github.com/SteEsp/CV-DetectTheBottleCap
+https://github.com/munaibalhelali/bottle_cap_detection_and_classification
